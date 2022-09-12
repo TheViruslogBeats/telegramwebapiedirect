@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/telegramwebapiedirect/static/css/main.e6c13ad2.css",
-    "main.js": "/telegramwebapiedirect/static/js/main.e0a591f8.js",
+    "main.js": "/telegramwebapiedirect/static/js/main.a41528a1.js",
     "index.html": "/telegramwebapiedirect/index.html",
     "main.e6c13ad2.css.map": "/telegramwebapiedirect/static/css/main.e6c13ad2.css.map",
-    "main.e0a591f8.js.map": "/telegramwebapiedirect/static/js/main.e0a591f8.js.map"
+    "main.a41528a1.js.map": "/telegramwebapiedirect/static/js/main.a41528a1.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e0a591f8.js"
+    "static/js/main.a41528a1.js"
   ]
 }
